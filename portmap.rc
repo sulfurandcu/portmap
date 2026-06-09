@@ -1,0 +1,8 @@
+#include "resource.h"
+
+// Icon resource
+IDI_APP_ICON ICON "portmap.ico"
+ID_TRAY_ICON ICON "portmap.ico"
+
+/* ComCtl32 v6：现代按钮/滚动条等视觉样式 */
+1 RT_MANIFEST "portmap.manifest"
